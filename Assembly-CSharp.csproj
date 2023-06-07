@@ -59,6 +59,8 @@
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\World\Collisions\objectStrike.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerScoreCount.cs" />
+    <Compile Include="Assets\Scripts\World\Collisions\objectDrop.cs" />
+    <Compile Include="Assets\Scripts\World\Collisions\objectSpin.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
